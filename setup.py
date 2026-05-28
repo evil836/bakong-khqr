@@ -9,7 +9,7 @@ setup(
     name="bakong-khqr",
     version="0.5.8",
     author="BAN Sothen",
-    author_email="bansokthen@gmail.com",
+    author_email="khmersmpstore@gmail.com",
     description="A Python package for generating payment transactions compliant with the Bakong KHQR standard. (Unofficial NBC)",
     long_description=long_description,
     long_description_content_type="text/markdown",
